@@ -24,11 +24,9 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- Vue.js
-- Vuetify
-- VUEX
-- VUE ROUTER
-- Draggable
+- Reactjs
+- CSS
+
 
 <br>
 
