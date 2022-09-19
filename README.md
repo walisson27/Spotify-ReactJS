@@ -29,7 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - VUEX
 - VUE ROUTER
 - Draggable
-- Animate.css
 
 <br>
 
