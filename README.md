@@ -30,7 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - VUE ROUTER
 - Draggable
 - Animate.css
-- Localbase
 
 <br>
 
