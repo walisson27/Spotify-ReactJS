@@ -35,8 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Para iniciar o **Projeto** utilize os comandos:
 
 ```bash
-yarn install
-yarn start
+npm install
+npm run dev
 ```
 
 Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080`.
