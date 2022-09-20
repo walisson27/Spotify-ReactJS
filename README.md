@@ -39,6 +39,6 @@ npm install
 npm run dev
 ```
 
-Assim que o processo terminar, automaticamente será aberta no seu navegador a página `http://localhost:8080`.
+Assim que o processo terminar, automaticamente será aberta no seu navegador a página ``.
 
 Feito por [Walisson Souza](https://github.com/walisson27)
