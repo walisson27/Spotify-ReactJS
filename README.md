@@ -17,7 +17,6 @@
 
 <p align="center">
   <img src="">
-  <img src="">
 </p>
 
 ## :rocket: Tecnologias
