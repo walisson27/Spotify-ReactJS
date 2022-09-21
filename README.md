@@ -27,7 +27,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Reactjs
 - CSS
 
-
 <br>
 
 ## 💻 Instalação
